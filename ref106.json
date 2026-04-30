@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4778.json",
+  "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/ref106.json",
   "type": "Manifest",
   "label": {
     "en": [
-      "Legal Record with Notation [Copy]"
+      "Personal Correspondence"
     ]
   },
   "behavior": [
@@ -12,25 +12,25 @@
   ],
   "items": [
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/canvas/1",
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
           "1"
         ]
       },
-      "width": 4766,
-      "height": 7534,
+      "width": 8011,
+      "height": 5496,
       "thumbnail": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/1/full/!300,300/0/default.jpg",
+          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/1/full/!300,300/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "height": 300,
           "width": 300,
           "service": [
             {
-              "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/1",
+              "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/1",
               "type": "ImageService2",
               "profile": "level1"
             }
@@ -39,54 +39,54 @@
       ],
       "items": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/page/1",
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/page/1",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/3/context.json",
-              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/annotation/painting/1",
+              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/annotation/painting/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/1",
+                "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/1",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/1",
+                    "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/1",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
                 ],
-                "height": 7534,
-                "width": 4766
+                "height": 5496,
+                "width": 8011
               },
-              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/canvas/1"
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/canvas/2",
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
           "2"
         ]
       },
-      "width": 4766,
-      "height": 7536,
+      "width": 8068,
+      "height": 5515,
       "thumbnail": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/2/full/!300,300/0/default.jpg",
+          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/2/full/!300,300/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "height": 300,
           "width": 300,
           "service": [
             {
-              "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/2",
+              "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/2",
               "type": "ImageService2",
               "profile": "level1"
             }
@@ -95,29 +95,29 @@
       ],
       "items": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/page/2",
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/page/2",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/3/context.json",
-              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/annotation/painting/2",
+              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/annotation/painting/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/2",
+                "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/2",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/2",
+                    "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/2",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
                 ],
-                "height": 7536,
-                "width": 4766
+                "height": 5515,
+                "width": 8068
               },
-              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4778/canvas/2"
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/canvas/2"
             }
           ]
         }
@@ -133,7 +133,7 @@
       },
       "value": {
         "en": [
-          "Yes"
+          "No"
         ]
       }
     },
@@ -157,7 +157,7 @@
       },
       "value": {
         "en": [
-        "Slavery", "Women and Gender" 
+        "Indigenous Peoples", "Setter Colonialism", "Women and Gender"
         ]
       }
     },
@@ -169,7 +169,7 @@
       },
       "value": {
         "en": [
-          "Legal Record with Notation [Copy]: 1705-6 January 15"
+          "Personal Correspondence: 1719-20 January 20"
         ]
       }
     },
@@ -193,7 +193,7 @@
       },
       "value": {
         "en": [
-          "<a href='https://hdl.handle.net/2333.1/h9w0w25x'>https://hdl.handle.net/2333.1/h9w0w25x</a>"
+          "<a href='https://hdl.handle.net/2333.1/bg79crx7'>https://hdl.handle.net/2333.1/bg79crx7</a>"
         ]
       }
     },
@@ -241,7 +241,7 @@
       },
       "value": {
         "en": [
-          "Legal Record with Notation [Copy]"
+          "Personal Correspondence"
         ]
       }
     },
@@ -265,7 +265,7 @@
       },
       "value": {
         "en": [
-          "1705-6 January 15"
+          "1719-20 January 20"
         ]
       }
     },
@@ -317,7 +317,7 @@
   "viewingDirection": "left-to-right",
   "homepage": [
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/photos/fales_mss208_cuid4778/1",
+      "id": "https://sites.dlib.nyu.edu/viewer/photos/MSS208_ref106/1",
       "type": "Text",
       "label": {
         "en": [
@@ -340,14 +340,14 @@
   ],
   "thumbnail": [
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/1/full/!300,300/0/default.jpg",
+      "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/1/full/!300,300/0/default.jpg",
       "type": "Image",
       "format": "image/jpeg",
       "height": 300,
       "width": 300,
       "service": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid4778/1",
+          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/MSS208_ref106/1",
           "type": "ImageService2",
           "profile": "level1"
         }

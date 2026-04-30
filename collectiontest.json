@@ -826,6 +826,33 @@
           "fales_mss208_cuid4778"
         ]
       }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4799.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4799"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4809.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4809"
+        ]
+      }
+    },
+     {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/ref106.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_ref106"
+        ]
+      }
     }
   ]
 }
