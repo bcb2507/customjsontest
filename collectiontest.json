@@ -853,6 +853,42 @@
           "fales_mss208_ref106"
         ]
       }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/ref108.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_ref108"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/ref110.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_ref110"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/ref1721.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_ref1721"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/ref1694.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_ref1694"
+        ]
+      }
     }
   ]
 }
