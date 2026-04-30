@@ -790,6 +790,42 @@
           "fales_mss208_cuid4756"
         ]
       }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4770.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4770"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4771.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4771"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4773.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4773"
+        ]
+      }
+    },
+     {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4778.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4778"
+        ]
+      }
     }
   ]
 }
