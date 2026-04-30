@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4751/manifest.json",
+  "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4751.json",
   "type": "Manifest",
   "label": {
     "en": [

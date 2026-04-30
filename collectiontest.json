@@ -763,6 +763,15 @@
           "fales_mss208_cuid4083"
         ]
       }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/bcb2507/customjsontest/refs/heads/main/cuid4751.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4751"
+        ]
+      }
     }
   ]
 }
